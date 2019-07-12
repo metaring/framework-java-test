@@ -18,7 +18,7 @@
 
     <groupId>com.metaring</groupId>
     <artifactId>framework-java-test</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.7</version>
 
     <name>MetaRing Java Framework - Test</name>
     <description>Test utilities suite for the MetaRing Framework</description>
@@ -42,14 +42,14 @@
     <scm>
         <url>https://github.com/metaring/framework-java-test.git</url>
         <developerConnection>scm:git:git@github.com:metaring/framework-java-test.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>v1.0.7</tag>
     </scm>
 
     <dependencies>
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>framework-java</artifactId>
-            <version>1.0.7</version>
+            <version>1.0.8</version>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
